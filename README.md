@@ -8,6 +8,8 @@ Return the number of pseudo-palindromic paths going from the root node to leaf n
 
  
 
+
+
 Example 1:
 
 ![image](https://user-images.githubusercontent.com/63790684/125153149-65c59880-e16f-11eb-90a0-8468afaa5bd1.png)
